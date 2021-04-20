@@ -5,7 +5,7 @@ A bit about me:
 
     Nationality: 🇨🇦/🇬🇧
     Personal interests: 🏃 🥋 🥊 💪🏽 🏕 🏍 💻 🛫
-    Countries I've visited: 🇨🇦 🇺🇸 🇬🇧 🇨🇺 🇲🇽
+    Countries I've visited: 🇬🇧 🇨🇦 🇺🇸 🇨🇺 🇲🇽
     Current location: 📍 Victoria, BC, Canada
 
 
