@@ -1,6 +1,5 @@
-Product Support Analyst
 
-💻 I'm currently working at VertiGIS, helping people understand GIS and use Geocortex products effectively.
+💻 I'm currently working at VertiGIS, helping people understand GIS and use VertiGIS products effectively.
 A bit about me:
 
     Nationality: 🇨🇦/🇬🇧
