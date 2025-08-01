@@ -96,6 +96,8 @@
 ---
 <!-- LAST_UPDATED -->Last updated: 2025-08-01 07:04 UTC<!-- LAST_UPDATED_END -->
 
+*Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
+
 
 <!--
 **ggfevans/ggfevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
