@@ -11,6 +11,8 @@ A bit about me:
 - **Countries I've visited:** 🇬🇧 🇨🇦 🇺🇸 🇨🇺 🇲🇽
 - **Current location:** 📍 Victoria, BC, Canada
 
+<a href="https://gitroll.io/profile/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
+
 <!-- STATS_START -->
 
 ### 📊 GitHub Stats
