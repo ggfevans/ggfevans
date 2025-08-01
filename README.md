@@ -34,7 +34,7 @@
 
 **Continuous Learning**: Staying current with modern web development practices while expanding into network infrastructure and community project management.
 
-<a href="https://gitroll.io/profile/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3?theme=solarizedDark" alt="GitRoll Profile Badge" width="495"/></a>
 
 <!-- STATS_START -->
 
