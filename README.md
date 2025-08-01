@@ -1,5 +1,5 @@
 
-# 💻 Geoff Evans
+# 💻 Gareth Evans
 
 **Currently:** Working at VertiGIS, helping people understand GIS and use VertiGIS & Esri products effectively.
 
