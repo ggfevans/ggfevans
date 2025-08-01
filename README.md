@@ -1,15 +1,38 @@
 
 # 💻 Gareth Evans
 
-**Currently:** Working at VertiGIS, helping people understand GIS and use VertiGIS & Esri products effectively.
+**Currently:** Specializing in modern web development and self-hosted infrastructure solutions, with focus on rural connectivity and community network projects.
 
 ## 🧑‍💻 About Me
 
-A bit about me:
+**Professional Focus:** Full-stack web development, infrastructure automation, and rural networking solutions
+
+- **Location:** 📍 Fraser Valley, BC, Canada
 - **Nationality:** 🇨🇦/🇬🇧
-- **Personal interests:** 🏃 🥋 🥊 💪🏽 🏕 🏍 💻 🛫
-- **Countries I've visited:** 🇬🇧 🇨🇦 🇺🇸 🇨🇺 🇲🇽
-- **Current location:** 📍 Victoria, BC, Canada
+- **Interests:** 🏃 🥋 🥊 💪🏽 🏕 🏍 💻 🛫
+- **Countries visited:** 🇬🇧 🇨🇦 🇺🇸 🇨🇺 🇲🇽
+
+## 🛠 Technical Focus
+
+**Core Competencies:**
+- **Modern Web Development**: Next.js, React, full-stack JavaScript
+- **Infrastructure**: Self-hosted solutions, network architecture, rural connectivity
+- **Project Management**: Community infrastructure projects, technical consultation
+- **Problem Solving**: Complex technical challenges, grant research, regulatory analysis
+
+**Current Tech Stack:**
+- **Frontend**: Next.js, React, modern JavaScript
+- **Deployment**: Vercel, continuous integration
+- **Infrastructure**: Network design, wireless backhaul, enterprise networking
+- **Tools**: Git, automated testing, dependency management
+
+## 📊 Professional Philosophy
+
+**Community-Focused Technology**: Leveraging modern web development and infrastructure expertise to solve real-world connectivity challenges in rural and underserved communities.
+
+**Pragmatic Implementation**: Building maintainable, well-documented solutions that work reliably in challenging environments with limited local technical support.
+
+**Continuous Learning**: Staying current with modern web development practices while expanding into network infrastructure and community project management.
 
 <a href="https://gitroll.io/profile/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3?theme=solarizedDark" alt="GitRoll Profile Badge"/></a>
 
