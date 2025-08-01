@@ -1,0 +1,38 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Node (if added later)
+node_modules/
+npm-debug.log*
+
+# Python (if added later)
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Claude Code
+.claude/

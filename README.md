@@ -1,11 +1,30 @@
 
-💻 I'm currently working at VertiGIS, helping people understand GIS and use VertiGIS & Esri products effectively.
-A bit about me:
+# 💻 Geoff Evans
 
-    Nationality: 🇨🇦/🇬🇧
-    Personal interests: 🏃 🥋 🥊 💪🏽 🏕 🏍 💻 🛫
-    Countries I've visited: 🇬🇧 🇨🇦 🇺🇸 🇨🇺 🇲🇽
-    Current location: 📍 Victoria, BC, Canada
+**Currently:** Working at VertiGIS, helping people understand GIS and use VertiGIS & Esri products effectively.
+
+## 🧑‍💻 About Me
+
+A bit about me:
+- **Nationality:** 🇨🇦/🇬🇧
+- **Personal interests:** 🏃 🥋 🥊 💪🏽 🏕 🏍 💻 🛫
+- **Countries I've visited:** 🇬🇧 🇨🇦 🇺🇸 🇨🇺 🇲🇽
+- **Current location:** 📍 Victoria, BC, Canada
+
+<!-- STATS_START -->
+<!-- STATS_END -->
+
+<!-- ACTIVITY_START -->
+<!-- ACTIVITY_END -->
+
+<!-- PROJECTS_START -->
+<!-- PROJECTS_END -->
+
+<!-- SKILLS_START -->
+<!-- SKILLS_END -->
+
+---
+<!-- LAST_UPDATED --><!-- LAST_UPDATED_END -->
 
 
 <!--

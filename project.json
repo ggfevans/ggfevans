@@ -1,0 +1,52 @@
+{
+  "name": "ggfevans-github-profile",
+  "type": "profile-readme",
+  "description": "GitHub profile README for ggfevans",
+  "version": "1.0.0",
+  "structure": {
+    "main_file": "README.md",
+    "config_files": [
+      "CLAUDE.md",
+      ".gitignore",
+      "project.json"
+    ]
+  },
+  "subagent_hints": {
+    "content_tasks": {
+      "suitable_for": ["general-purpose"],
+      "common_requests": [
+        "Update professional bio",
+        "Add GitHub stats widgets",
+        "Enhance markdown formatting",
+        "Add skill badges",
+        "Update contact information"
+      ]
+    },
+    "avoid": {
+      "code_generation": "This is a content-only repository",
+      "dependencies": "No package management needed",
+      "build_processes": "No compilation or build steps"
+    }
+  },
+  "markdown_features": {
+    "supported": [
+      "Headers",
+      "Emojis",
+      "Links",
+      "Images",
+      "HTML comments",
+      "Lists",
+      "Code blocks",
+      "Tables"
+    ],
+    "considerations": [
+      "GitHub-flavored markdown",
+      "Profile page rendering limitations",
+      "Mobile responsiveness"
+    ]
+  },
+  "external_resources": {
+    "obsidian_notes": "01-PROJECTS/github-profile-readme/",
+    "note": "Obsidian vault not directly accessible"
+  }
+}
