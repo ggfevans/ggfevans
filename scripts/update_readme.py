@@ -21,7 +21,7 @@ def format_stats(stats):
     return f"""
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
 - **Public Repos:** {stats['public_repos']}
 - **Total Stars:** {stats['total_stars']}
