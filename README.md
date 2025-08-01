@@ -17,7 +17,7 @@ A bit about me:
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
 - **Public Repos:** 34
 - **Total Stars:** 3
@@ -71,7 +71,7 @@ A bit about me:
 <!-- SKILLS_END -->
 
 ---
-<!-- LAST_UPDATED -->Last updated: 2025-08-01 06:54 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-08-01 07:04 UTC<!-- LAST_UPDATED_END -->
 
 
 <!--
