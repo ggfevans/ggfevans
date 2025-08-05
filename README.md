@@ -12,7 +12,7 @@
 - **Interests:** 🏃 🥋 🥊 💪🏽 🏕 🏍 💻 🛫
 - **Countries visited:** 🇬🇧 🇨🇦 🇺🇸 🇨🇺 🇲🇽
 
-<a href="https://gitroll.io/profile/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3?theme=dracula" alt="GitRoll Profile Badge "width="495"/></a>
+<a href="https://gitroll.io/profile/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u4ZwDBdJejhWlx0XGDQ7f3d1XOkF3?theme=dracula" alt="GitRoll Profile Badge" width="495"/></a>
 <!-- STATS_START -->
 
 ### 📊 GitHub Stats
