@@ -21,17 +21,19 @@
 
 - **Public Repos:** 35
 - **Total Stars:** 3
-- **Followers:** 48
-- **Following:** 438
+- **Followers:** 49
+- **Following:** 444
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [arp242/goatcounter](https://github.com/arp242/goatcounter) on Aug 03
-- ⭐ Starred [SiriusStarr/jdlint](https://github.com/SiriusStarr/jdlint) on Aug 03
-- ⭐ Starred [johnnydecimal/awesome-johnnydecimal](https://github.com/johnnydecimal/awesome-johnnydecimal) on Aug 03
+- ⭐ Starred [sst/opencode](https://github.com/sst/opencode) on Aug 10
+- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Aug 09
+- 🔀 Opened PR in [aaronsb/obsidian-mcp-plugin](https://github.com/aaronsb/obsidian-mcp-plugin) on Aug 09
+- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Aug 09
+- 🔨 Pushed to [ggfevans/obsidian-mcp-plugin](https://github.com/ggfevans/obsidian-mcp-plugin) on Aug 09
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -45,6 +47,10 @@
 - "why is my cache full oh no" - never again. Prevent cache drive overflow by gracefully managing qBittorrent during Unraid mover operations.
 - **Language:** Shell | **Stars:** 2
 
+#### [gitroll](https://github.com/ggfevans/gitroll)
+- Dracula theme for Gitroll profile cards
+- **Language:** TypeScript | **Stars:** 0
+
 #### [ggfevans](https://github.com/ggfevans/ggfevans)
 - No description available
 - **Language:** Python | **Stars:** 0
@@ -55,10 +61,10 @@
 ### 🛠️ Tech Stack
 
 #### Top Languages by Usage
-- **Python:** ████████████████░░░░ 81.2%
-- **TypeScript:** ██░░░░░░░░░░░░░░░░░░ 14.8%
+- **Python:** ████████████████░░░░ 81.0%
+- **TypeScript:** ███░░░░░░░░░░░░░░░░░ 15.1%
 - **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
-- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 1.0%
+- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 0.9%
 - **Batchfile:** ░░░░░░░░░░░░░░░░░░░░ 0.5%
 - **Shell:** ░░░░░░░░░░░░░░░░░░░░ 0.5%
 - **CSS:** ░░░░░░░░░░░░░░░░░░░░ 0.3%
@@ -89,7 +95,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-08-04 08:11 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-08-11 08:11 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
