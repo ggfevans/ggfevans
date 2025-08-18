@@ -19,21 +19,21 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
-- **Public Repos:** 35
+- **Public Repos:** 37
 - **Total Stars:** 3
 - **Followers:** 49
-- **Following:** 445
+- **Following:** 458
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [blacksmithgu/datacore](https://github.com/blacksmithgu/datacore) on Aug 11
-- ⭐ Starred [sst/opencode](https://github.com/sst/opencode) on Aug 10
-- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Aug 09
-- 🔀 Opened PR in [aaronsb/obsidian-mcp-plugin](https://github.com/aaronsb/obsidian-mcp-plugin) on Aug 09
-- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Aug 09
+- ⭐ Starred [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) on Aug 18
+- 🔨 Pushed to [ggfevans/obsidian-midnight-commander](https://github.com/ggfevans/obsidian-midnight-commander) on Aug 18
+- 🔨 Pushed to [ggfevans/obsidian-midnight-commander](https://github.com/ggfevans/obsidian-midnight-commander) on Aug 18
+- 🔨 Pushed to [ggfevans/obsidian-midnight-commander](https://github.com/ggfevans/obsidian-midnight-commander) on Aug 18
+- ⭐ Starred [pjeby/quick-explorer](https://github.com/pjeby/quick-explorer) on Aug 18
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -46,6 +46,10 @@
 #### [unraid-qbit-mover](https://github.com/ggfevans/unraid-qbit-mover)
 - "why is my cache full oh no" - never again. Prevent cache drive overflow by gracefully managing qBittorrent during Unraid mover operations.
 - **Language:** Shell | **Stars:** 2
+
+#### [obsidian-midnight-commander](https://github.com/ggfevans/obsidian-midnight-commander)
+- No description available
+- **Language:** TypeScript | **Stars:** 0
 
 #### [ggfevans](https://github.com/ggfevans/ggfevans)
 - No description available
@@ -61,13 +65,13 @@
 ### 🛠️ Tech Stack
 
 #### Top Languages by Usage
-- **Python:** ████████████████░░░░ 81.0%
-- **TypeScript:** ███░░░░░░░░░░░░░░░░░ 15.1%
+- **Python:** ███████████████░░░░░ 77.8%
+- **TypeScript:** ███░░░░░░░░░░░░░░░░░ 17.6%
 - **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
-- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 0.9%
+- **CSS:** ░░░░░░░░░░░░░░░░░░░░ 1.0%
+- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 1.0%
 - **Batchfile:** ░░░░░░░░░░░░░░░░░░░░ 0.5%
-- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 0.5%
-- **CSS:** ░░░░░░░░░░░░░░░░░░░░ 0.3%
+- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 0.4%
 - **PowerShell:** ░░░░░░░░░░░░░░░░░░░░ 0.2%
 <!-- SKILLS_END -->
 
@@ -95,7 +99,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-08-12 17:02 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-08-18 08:11 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
