@@ -20,20 +20,20 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
 - **Public Repos:** 37
-- **Total Stars:** 3
-- **Followers:** 49
-- **Following:** 458
+- **Total Stars:** 9
+- **Followers:** 50
+- **Following:** 462
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) on Aug 18
-- 🔨 Pushed to [ggfevans/obsidian-midnight-commander](https://github.com/ggfevans/obsidian-midnight-commander) on Aug 18
-- 🔨 Pushed to [ggfevans/obsidian-midnight-commander](https://github.com/ggfevans/obsidian-midnight-commander) on Aug 18
-- 🔨 Pushed to [ggfevans/obsidian-midnight-commander](https://github.com/ggfevans/obsidian-midnight-commander) on Aug 18
-- ⭐ Starred [pjeby/quick-explorer](https://github.com/pjeby/quick-explorer) on Aug 18
+- ⭐ Starred [snipeship/ccflare](https://github.com/snipeship/ccflare) on Aug 23
+- 🌟 Created repository in [ggfevans/obsidian-test-vault-generator](https://github.com/ggfevans/obsidian-test-vault-generator) on Aug 23
+- 🌟 Created branch in [ggfevans/obsidian-test-vault-generator](https://github.com/ggfevans/obsidian-test-vault-generator) on Aug 23
+- ⭐ Starred [hargata/lubelog](https://github.com/hargata/lubelog) on Aug 23
+- 📝 Opened issue in [aaronsb/obsidian-mcp-plugin](https://github.com/aaronsb/obsidian-mcp-plugin) on Aug 23
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -41,7 +41,11 @@
 
 #### [daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault)
 - Notes for a Daggerheart Age of Umbra campaign
-- **Language:** TypeScript | **Stars:** 1
+- **Language:** TypeScript | **Stars:** 4
+
+#### [ggfevans](https://github.com/ggfevans/ggfevans)
+- No description available
+- **Language:** Python | **Stars:** 3
 
 #### [unraid-qbit-mover](https://github.com/ggfevans/unraid-qbit-mover)
 - "why is my cache full oh no" - never again. Prevent cache drive overflow by gracefully managing qBittorrent during Unraid mover operations.
@@ -50,10 +54,6 @@
 #### [obsidian-midnight-commander](https://github.com/ggfevans/obsidian-midnight-commander)
 - No description available
 - **Language:** TypeScript | **Stars:** 0
-
-#### [ggfevans](https://github.com/ggfevans/ggfevans)
-- No description available
-- **Language:** Python | **Stars:** 0
 
 #### [gitroll](https://github.com/ggfevans/gitroll)
 - Dracula theme for Gitroll profile cards
@@ -65,10 +65,10 @@
 ### 🛠️ Tech Stack
 
 #### Top Languages by Usage
-- **Python:** ███████████████░░░░░ 77.8%
-- **TypeScript:** ███░░░░░░░░░░░░░░░░░ 17.6%
-- **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
-- **CSS:** ░░░░░░░░░░░░░░░░░░░░ 1.0%
+- **Python:** ██████████████░░░░░░ 75.0%
+- **TypeScript:** ████░░░░░░░░░░░░░░░░ 20.4%
+- **CSS:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
+- **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 1.1%
 - **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 1.0%
 - **Batchfile:** ░░░░░░░░░░░░░░░░░░░░ 0.5%
 - **Shell:** ░░░░░░░░░░░░░░░░░░░░ 0.4%
@@ -99,7 +99,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-08-18 08:11 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-08-25 08:10 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
