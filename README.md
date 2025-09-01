@@ -19,21 +19,20 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
-- **Public Repos:** 37
-- **Total Stars:** 9
-- **Followers:** 50
-- **Following:** 462
+- **Public Repos:** 35
+- **Total Stars:** 7
+- **Followers:** 52
+- **Following:** 465
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [snipeship/ccflare](https://github.com/snipeship/ccflare) on Aug 23
-- 🌟 Created repository in [ggfevans/obsidian-test-vault-generator](https://github.com/ggfevans/obsidian-test-vault-generator) on Aug 23
-- 🌟 Created branch in [ggfevans/obsidian-test-vault-generator](https://github.com/ggfevans/obsidian-test-vault-generator) on Aug 23
-- ⭐ Starred [hargata/lubelog](https://github.com/hargata/lubelog) on Aug 23
-- 📝 Opened issue in [aaronsb/obsidian-mcp-plugin](https://github.com/aaronsb/obsidian-mcp-plugin) on Aug 23
+- ⭐ Starred [adrianjagielak/home-assistant-futurehome](https://github.com/adrianjagielak/home-assistant-futurehome) on Aug 31
+- ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) on Aug 31
+- 🔨 Pushed to [ggfevans/gvns.ca](https://github.com/ggfevans/gvns.ca) on Aug 30
+- 🔀 Closed PR in [ggfevans/gvns.ca](https://github.com/ggfevans/gvns.ca) on Aug 30
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -41,22 +40,22 @@
 
 #### [daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault)
 - Notes for a Daggerheart Age of Umbra campaign
-- **Language:** TypeScript | **Stars:** 4
+- **Language:** TypeScript | **Stars:** 3
 
 #### [ggfevans](https://github.com/ggfevans/ggfevans)
 - No description available
-- **Language:** Python | **Stars:** 3
+- **Language:** Python | **Stars:** 2
 
 #### [unraid-qbit-mover](https://github.com/ggfevans/unraid-qbit-mover)
 - "why is my cache full oh no" - never again. Prevent cache drive overflow by gracefully managing qBittorrent during Unraid mover operations.
 - **Language:** Shell | **Stars:** 2
 
-#### [obsidian-midnight-commander](https://github.com/ggfevans/obsidian-midnight-commander)
-- No description available
+#### [gvns.ca](https://github.com/ggfevans/gvns.ca)
+- My personal portfolio running on Vercel built with React.js, TypeScript, Next.js, and styled with Tailwind CSS.
 - **Language:** TypeScript | **Stars:** 0
 
-#### [gitroll](https://github.com/ggfevans/gitroll)
-- Dracula theme for Gitroll profile cards
+#### [obsidian-midnight-commander](https://github.com/ggfevans/obsidian-midnight-commander)
+- No description available
 - **Language:** TypeScript | **Stars:** 0
 
 <!-- PROJECTS_END -->
@@ -65,8 +64,8 @@
 ### 🛠️ Tech Stack
 
 #### Top Languages by Usage
-- **Python:** ██████████████░░░░░░ 75.0%
-- **TypeScript:** ████░░░░░░░░░░░░░░░░ 20.4%
+- **Python:** ███████████████░░░░░ 75.2%
+- **TypeScript:** ████░░░░░░░░░░░░░░░░ 20.2%
 - **CSS:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
 - **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 1.1%
 - **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 1.0%
@@ -99,7 +98,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-08-25 08:10 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-09-01 08:10 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
