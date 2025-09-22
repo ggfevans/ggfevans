@@ -20,20 +20,20 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
 - **Public Repos:** 35
-- **Total Stars:** 7
-- **Followers:** 53
-- **Following:** 467
+- **Total Stars:** 8
+- **Followers:** 55
+- **Following:** 468
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [PrathxmOp/dab-downloader](https://github.com/PrathxmOp/dab-downloader) on Sep 14
-- ⭐ Starred [openmapeditor/openmapeditor](https://github.com/openmapeditor/openmapeditor) on Sep 14
-- ⭐ Starred [stevius10/Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) on Sep 13
-- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Sep 12
-- ⭐ Starred [boinkor-net/tsnsrv](https://github.com/boinkor-net/tsnsrv) on Sep 02
+- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Sep 21
+- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Sep 21
+- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Sep 21
+- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Sep 21
+- ⭐ Starred [surajverma/homehub](https://github.com/surajverma/homehub) on Sep 21
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -41,7 +41,7 @@
 
 #### [daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault)
 - Notes for a Daggerheart Age of Umbra campaign
-- **Language:** TypeScript | **Stars:** 3
+- **Language:** TypeScript | **Stars:** 4
 
 #### [ggfevans](https://github.com/ggfevans/ggfevans)
 - No description available
@@ -99,7 +99,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-09-15 08:10 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-09-22 08:11 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
