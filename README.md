@@ -22,18 +22,18 @@
 - **Public Repos:** 35
 - **Total Stars:** 8
 - **Followers:** 55
-- **Following:** 468
+- **Following:** 469
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Sep 21
-- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Sep 21
-- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Sep 21
-- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Sep 21
-- ⭐ Starred [surajverma/homehub](https://github.com/surajverma/homehub) on Sep 21
+- ⭐ Starred [siddhantac/obsidian-task-project](https://github.com/siddhantac/obsidian-task-project) on Sep 27
+- ⭐ Starred [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale) on Sep 27
+- ⭐ Starred [5at0ri/tailscale-token-manager](https://github.com/5at0ri/tailscale-token-manager) on Sep 27
+- ⭐ Starred [asylumexp/Proxmox](https://github.com/asylumexp/Proxmox) on Sep 27
+- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Sep 27
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -99,7 +99,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-09-22 08:11 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-09-29 08:11 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
