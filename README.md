@@ -19,21 +19,20 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
-- **Public Repos:** 35
+- **Public Repos:** 36
 - **Total Stars:** 8
 - **Followers:** 55
-- **Following:** 469
+- **Following:** 475
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [siddhantac/obsidian-task-project](https://github.com/siddhantac/obsidian-task-project) on Sep 27
-- ⭐ Starred [artis3n/ansible-role-tailscale](https://github.com/artis3n/ansible-role-tailscale) on Sep 27
-- ⭐ Starred [5at0ri/tailscale-token-manager](https://github.com/5at0ri/tailscale-token-manager) on Sep 27
-- ⭐ Starred [asylumexp/Proxmox](https://github.com/asylumexp/Proxmox) on Sep 27
-- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Sep 27
+- ⭐ Starred [obra/coderabbit-review-helper](https://github.com/obra/coderabbit-review-helper) on Oct 06
+- 🔨 Pushed to [ggfevans/branch-backup-action](https://github.com/ggfevans/branch-backup-action) on Oct 06
+- 🔀 Closed PR in [ggfevans/branch-backup-action](https://github.com/ggfevans/branch-backup-action) on Oct 06
+- 🔀 Opened PR in [ggfevans/branch-backup-action](https://github.com/ggfevans/branch-backup-action) on Oct 06
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -51,6 +50,10 @@
 - "why is my cache full oh no" - never again. Prevent cache drive overflow by gracefully managing qBittorrent during Unraid mover operations.
 - **Language:** Shell | **Stars:** 2
 
+#### [branch-backup-action](https://github.com/ggfevans/branch-backup-action)
+- Automated weekly Git branch snapshots with rich metadata tracking
+- **Language:** Shell | **Stars:** 0
+
 #### [gvns.ca](https://github.com/ggfevans/gvns.ca)
 - My personal portfolio running on Vercel built with React.js, TypeScript, Next.js, and styled with Tailwind CSS.
 - **Language:** TypeScript | **Stars:** 0
@@ -65,13 +68,13 @@
 ### 🛠️ Tech Stack
 
 #### Top Languages by Usage
-- **Python:** ███████████████░░░░░ 75.2%
-- **TypeScript:** ████░░░░░░░░░░░░░░░░ 20.2%
+- **Python:** ██████████████░░░░░░ 74.1%
+- **TypeScript:** ███░░░░░░░░░░░░░░░░░ 19.9%
+- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 1.7%
 - **CSS:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
 - **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 1.1%
-- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 1.0%
-- **Batchfile:** ░░░░░░░░░░░░░░░░░░░░ 0.5%
-- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 0.4%
+- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 0.9%
+- **Batchfile:** ░░░░░░░░░░░░░░░░░░░░ 0.4%
 - **PowerShell:** ░░░░░░░░░░░░░░░░░░░░ 0.2%
 <!-- SKILLS_END -->
 
@@ -99,7 +102,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-09-29 08:11 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-10-06 08:10 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
