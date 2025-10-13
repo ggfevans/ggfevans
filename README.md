@@ -19,20 +19,20 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
-- **Public Repos:** 36
-- **Total Stars:** 8
+- **Public Repos:** 22
+- **Total Stars:** 9
 - **Followers:** 55
-- **Following:** 475
+- **Following:** 485
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [obra/coderabbit-review-helper](https://github.com/obra/coderabbit-review-helper) on Oct 06
-- 🔨 Pushed to [ggfevans/branch-backup-action](https://github.com/ggfevans/branch-backup-action) on Oct 06
-- 🔀 Closed PR in [ggfevans/branch-backup-action](https://github.com/ggfevans/branch-backup-action) on Oct 06
-- 🔀 Opened PR in [ggfevans/branch-backup-action](https://github.com/ggfevans/branch-backup-action) on Oct 06
+- ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers) on Oct 11
+- ⭐ Starred [zsa/kontroll](https://github.com/zsa/kontroll) on Oct 11
+- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Oct 11
+- ⭐ Starred [tksh164/aumid-stopgap-tools](https://github.com/tksh164/aumid-stopgap-tools) on Oct 11
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -41,6 +41,10 @@
 #### [daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault)
 - Notes for a Daggerheart Age of Umbra campaign
 - **Language:** TypeScript | **Stars:** 4
+
+#### [qbit-torrent-extract](https://github.com/ggfevans/qbit-torrent-extract)
+- An automated solution for extracting nested archives (zip, rar, 7z, tar) from completed qBittorrent downloads.
+- **Language:** Python | **Stars:** 1
 
 #### [ggfevans](https://github.com/ggfevans/ggfevans)
 - No description available
@@ -56,10 +60,6 @@
 
 #### [gvns.ca](https://github.com/ggfevans/gvns.ca)
 - My personal portfolio running on Vercel built with React.js, TypeScript, Next.js, and styled with Tailwind CSS.
-- **Language:** TypeScript | **Stars:** 0
-
-#### [obsidian-midnight-commander](https://github.com/ggfevans/obsidian-midnight-commander)
-- No description available
 - **Language:** TypeScript | **Stars:** 0
 
 <!-- PROJECTS_END -->
@@ -102,7 +102,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-10-06 08:10 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-10-13 08:11 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
