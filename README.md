@@ -20,19 +20,19 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
 - **Public Repos:** 22
-- **Total Stars:** 9
-- **Followers:** 55
-- **Following:** 485
+- **Total Stars:** 10
+- **Followers:** 57
+- **Following:** 494
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers) on Oct 11
-- ⭐ Starred [zsa/kontroll](https://github.com/zsa/kontroll) on Oct 11
-- 🔨 Pushed to [ggfevans/daggerheart-campaign-vault](https://github.com/ggfevans/daggerheart-campaign-vault) on Oct 11
-- ⭐ Starred [tksh164/aumid-stopgap-tools](https://github.com/tksh164/aumid-stopgap-tools) on Oct 11
+- ⭐ Starred [harperreed/ma](https://github.com/harperreed/ma) on Oct 20
+- ⭐ Starred [r4ai/tinnitus-reducer-acrn](https://github.com/r4ai/tinnitus-reducer-acrn) on Oct 19
+- ⭐ Starred [jo/hyperwood](https://github.com/jo/hyperwood) on Oct 19
+- ⭐ Starred [jo/hyperwood-bench](https://github.com/jo/hyperwood-bench) on Oct 19
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -42,25 +42,21 @@
 - Notes for a Daggerheart Age of Umbra campaign
 - **Language:** TypeScript | **Stars:** 4
 
-#### [qbit-torrent-extract](https://github.com/ggfevans/qbit-torrent-extract)
-- An automated solution for extracting nested archives (zip, rar, 7z, tar) from completed qBittorrent downloads.
-- **Language:** Python | **Stars:** 1
+#### [unraid-qbit-mover](https://github.com/ggfevans/unraid-qbit-mover)
+- "why is my cache full oh no" - never again. Prevent cache drive overflow by gracefully managing qBittorrent during Unraid mover operations.
+- **Language:** Shell | **Stars:** 3
 
 #### [ggfevans](https://github.com/ggfevans/ggfevans)
 - No description available
 - **Language:** Python | **Stars:** 2
 
-#### [unraid-qbit-mover](https://github.com/ggfevans/unraid-qbit-mover)
-- "why is my cache full oh no" - never again. Prevent cache drive overflow by gracefully managing qBittorrent during Unraid mover operations.
-- **Language:** Shell | **Stars:** 2
+#### [qbit-torrent-extract](https://github.com/ggfevans/qbit-torrent-extract)
+- An automated solution for extracting nested archives (zip, rar, 7z, tar) from completed qBittorrent downloads.
+- **Language:** Python | **Stars:** 1
 
 #### [branch-backup-action](https://github.com/ggfevans/branch-backup-action)
 - Automated weekly Git branch snapshots with rich metadata tracking
 - **Language:** Shell | **Stars:** 0
-
-#### [gvns.ca](https://github.com/ggfevans/gvns.ca)
-- My personal portfolio running on Vercel built with React.js, TypeScript, Next.js, and styled with Tailwind CSS.
-- **Language:** TypeScript | **Stars:** 0
 
 <!-- PROJECTS_END -->
 
@@ -102,7 +98,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-10-13 08:11 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-10-20 08:10 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
