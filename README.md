@@ -20,19 +20,16 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
 - **Public Repos:** 22
-- **Total Stars:** 10
-- **Followers:** 57
-- **Following:** 494
+- **Total Stars:** 11
+- **Followers:** 59
+- **Following:** 497
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [harperreed/ma](https://github.com/harperreed/ma) on Oct 20
-- ⭐ Starred [r4ai/tinnitus-reducer-acrn](https://github.com/r4ai/tinnitus-reducer-acrn) on Oct 19
-- ⭐ Starred [jo/hyperwood](https://github.com/jo/hyperwood) on Oct 19
-- ⭐ Starred [jo/hyperwood-bench](https://github.com/jo/hyperwood-bench) on Oct 19
+- ⭐ Starred [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) on Oct 26
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -44,7 +41,7 @@
 
 #### [unraid-qbit-mover](https://github.com/ggfevans/unraid-qbit-mover)
 - "why is my cache full oh no" - never again. Prevent cache drive overflow by gracefully managing qBittorrent during Unraid mover operations.
-- **Language:** Shell | **Stars:** 3
+- **Language:** Shell | **Stars:** 4
 
 #### [ggfevans](https://github.com/ggfevans/ggfevans)
 - No description available
@@ -98,7 +95,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-10-20 08:10 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-10-27 08:11 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
