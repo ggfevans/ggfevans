@@ -21,19 +21,19 @@
 
 - **Public Repos:** 22
 - **Total Stars:** 11
-- **Followers:** 59
-- **Following:** 499
+- **Followers:** 61
+- **Following:** 505
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [peterchinman/message-simulator](https://github.com/peterchinman/message-simulator) on Nov 01
-- ⭐ Starred [aztekgold/obsidian-tables](https://github.com/aztekgold/obsidian-tables) on Oct 31
-- ⭐ Starred [lll-phill-lll/tetris_keyboard](https://github.com/lll-phill-lll/tetris_keyboard) on Oct 31
-- ⭐ Starred [repo-racers/repo-racers](https://github.com/repo-racers/repo-racers) on Oct 28
-- ⭐ Starred [RohanAdwankar/oxdraw](https://github.com/RohanAdwankar/oxdraw) on Oct 26
+- ⭐ Starred [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) on Nov 10
+- ⭐ Starred [Dumpstarr/Dumpstarr](https://github.com/Dumpstarr/Dumpstarr) on Nov 09
+- ⭐ Starred [muesli/gitty](https://github.com/muesli/gitty) on Nov 09
+- ⭐ Starred [muesli/duf](https://github.com/muesli/duf) on Nov 09
+- ⭐ Starred [mosaicws/debian-lxc-container-toolkit](https://github.com/mosaicws/debian-lxc-container-toolkit) on Nov 09
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -99,7 +99,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-11-03 08:11 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-11-10 08:11 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
