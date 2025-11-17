@@ -22,18 +22,18 @@
 - **Public Repos:** 22
 - **Total Stars:** 11
 - **Followers:** 61
-- **Following:** 505
+- **Following:** 512
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) on Nov 10
-- ⭐ Starred [Dumpstarr/Dumpstarr](https://github.com/Dumpstarr/Dumpstarr) on Nov 09
-- ⭐ Starred [muesli/gitty](https://github.com/muesli/gitty) on Nov 09
-- ⭐ Starred [muesli/duf](https://github.com/muesli/duf) on Nov 09
-- ⭐ Starred [mosaicws/debian-lxc-container-toolkit](https://github.com/mosaicws/debian-lxc-container-toolkit) on Nov 09
+- ⭐ Starred [djGrrr/8311-was-110-firmware-builder](https://github.com/djGrrr/8311-was-110-firmware-builder) on Nov 16
+- ⭐ Starred [nfs-ganesha/nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) on Nov 15
+- ⭐ Starred [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) on Nov 15
+- ⭐ Starred [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) on Nov 13
+- ⭐ Starred [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) on Nov 13
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -99,7 +99,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-11-10 08:11 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-11-17 08:11 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
