@@ -21,19 +21,19 @@
 
 - **Public Repos:** 22
 - **Total Stars:** 11
-- **Followers:** 61
-- **Following:** 512
+- **Followers:** 59
+- **Following:** 514
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [djGrrr/8311-was-110-firmware-builder](https://github.com/djGrrr/8311-was-110-firmware-builder) on Nov 16
-- ⭐ Starred [nfs-ganesha/nfs-ganesha](https://github.com/nfs-ganesha/nfs-ganesha) on Nov 15
-- ⭐ Starred [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) on Nov 15
-- ⭐ Starred [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker) on Nov 13
-- ⭐ Starred [eclaire-labs/eclaire](https://github.com/eclaire-labs/eclaire) on Nov 13
+- ⭐ Starred [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) on Nov 23
+- ⭐ Starred [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) on Nov 22
+- ⭐ Starred [lukaszraczylo/traefikoidc](https://github.com/lukaszraczylo/traefikoidc) on Nov 22
+- ⭐ Starred [ScreenTechnicals/mastodon-next-template](https://github.com/ScreenTechnicals/mastodon-next-template) on Nov 22
+- ⭐ Starred [gfxholo/iconic](https://github.com/gfxholo/iconic) on Nov 21
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -55,9 +55,9 @@
 - An automated solution for extracting nested archives (zip, rar, 7z, tar) from completed qBittorrent downloads.
 - **Language:** Python | **Stars:** 1
 
-#### [branch-backup-action](https://github.com/ggfevans/branch-backup-action)
-- Automated weekly Git branch snapshots with rich metadata tracking
-- **Language:** Shell | **Stars:** 0
+#### [gvns.ca](https://github.com/ggfevans/gvns.ca)
+- My personal portfolio running on Vercel built with React.js, TypeScript, Next.js, and styled with Tailwind CSS.
+- **Language:** TypeScript | **Stars:** 0
 
 <!-- PROJECTS_END -->
 
@@ -99,7 +99,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-11-17 08:11 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-11-24 08:11 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
