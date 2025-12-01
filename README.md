@@ -19,21 +19,19 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
-- **Public Repos:** 22
+- **Public Repos:** 23
 - **Total Stars:** 11
-- **Followers:** 59
-- **Following:** 514
+- **Followers:** 57
+- **Following:** 519
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- ⭐ Starred [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) on Nov 23
-- ⭐ Starred [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) on Nov 22
-- ⭐ Starred [lukaszraczylo/traefikoidc](https://github.com/lukaszraczylo/traefikoidc) on Nov 22
-- ⭐ Starred [ScreenTechnicals/mastodon-next-template](https://github.com/ScreenTechnicals/mastodon-next-template) on Nov 22
-- ⭐ Starred [gfxholo/iconic](https://github.com/gfxholo/iconic) on Nov 21
+- 🔀 Closed PR in [arcanis/secretsanta](https://github.com/arcanis/secretsanta) on Dec 01
+- 🔀 Opened PR in [arcanis/secretsanta](https://github.com/arcanis/secretsanta) on Dec 01
+- 🌟 Created branch in [ggfevans/secretsanta](https://github.com/ggfevans/secretsanta) on Dec 01
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -55,19 +53,15 @@
 - An automated solution for extracting nested archives (zip, rar, 7z, tar) from completed qBittorrent downloads.
 - **Language:** Python | **Stars:** 1
 
-#### [gvns.ca](https://github.com/ggfevans/gvns.ca)
-- My personal portfolio running on Vercel built with React.js, TypeScript, Next.js, and styled with Tailwind CSS.
-- **Language:** TypeScript | **Stars:** 0
-
 <!-- PROJECTS_END -->
 
 <!-- SKILLS_START -->
 ### 🛠️ Tech Stack
 
 #### Top Languages by Usage
-- **Python:** ██████████████░░░░░░ 74.1%
-- **TypeScript:** ███░░░░░░░░░░░░░░░░░ 19.9%
-- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 1.7%
+- **Python:** ██████████████░░░░░░ 74.2%
+- **TypeScript:** ███░░░░░░░░░░░░░░░░░ 20.0%
+- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 1.6%
 - **CSS:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
 - **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 1.1%
 - **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 0.9%
@@ -99,7 +93,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-11-24 08:11 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-12-01 08:12 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
