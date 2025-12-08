@@ -19,19 +19,16 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
-- **Public Repos:** 23
+- **Public Repos:** 24
 - **Total Stars:** 11
-- **Followers:** 57
-- **Following:** 519
+- **Followers:** 56
+- **Following:** 522
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- 🔀 Closed PR in [arcanis/secretsanta](https://github.com/arcanis/secretsanta) on Dec 01
-- 🔀 Opened PR in [arcanis/secretsanta](https://github.com/arcanis/secretsanta) on Dec 01
-- 🌟 Created branch in [ggfevans/secretsanta](https://github.com/ggfevans/secretsanta) on Dec 01
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -53,20 +50,28 @@
 - An automated solution for extracting nested archives (zip, rar, 7z, tar) from completed qBittorrent downloads.
 - **Language:** Python | **Stars:** 1
 
+#### [rackarr](https://github.com/ggfevans/rackarr)
+- Visual rack layout designer for homelabbers
+- **Language:** TypeScript | **Stars:** 0
+
+#### [gvns.ca](https://github.com/ggfevans/gvns.ca)
+- My personal portfolio running on Vercel built with React.js, TypeScript, Next.js, and styled with Tailwind CSS.
+- **Language:** TypeScript | **Stars:** 0
+
 <!-- PROJECTS_END -->
 
 <!-- SKILLS_START -->
 ### 🛠️ Tech Stack
 
 #### Top Languages by Usage
-- **Python:** ██████████████░░░░░░ 74.2%
-- **TypeScript:** ███░░░░░░░░░░░░░░░░░ 20.0%
-- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 1.6%
+- **Python:** ███████████░░░░░░░░░ 58.6%
+- **TypeScript:** ██████░░░░░░░░░░░░░░ 32.9%
+- **Svelte:** ░░░░░░░░░░░░░░░░░░░░ 3.5%
+- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
 - **CSS:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
-- **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 1.1%
-- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 0.9%
+- **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 0.9%
+- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 0.8%
 - **Batchfile:** ░░░░░░░░░░░░░░░░░░░░ 0.4%
-- **PowerShell:** ░░░░░░░░░░░░░░░░░░░░ 0.2%
 <!-- SKILLS_END -->
 
 ## 🛠 Technical Focus
@@ -93,7 +98,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-12-01 08:12 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-12-08 08:12 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
