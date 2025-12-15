@@ -19,16 +19,18 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
-- **Public Repos:** 24
+- **Public Repos:** 26
 - **Total Stars:** 11
 - **Followers:** 56
-- **Following:** 522
+- **Following:** 526
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
+- 📝 Closed issue in [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) on Dec 15
+- 📝 Opened issue in [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) on Dec 15
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -50,13 +52,9 @@
 - An automated solution for extracting nested archives (zip, rar, 7z, tar) from completed qBittorrent downloads.
 - **Language:** Python | **Stars:** 1
 
-#### [rackarr](https://github.com/ggfevans/rackarr)
-- Visual rack layout designer for homelabbers
-- **Language:** TypeScript | **Stars:** 0
-
-#### [gvns.ca](https://github.com/ggfevans/gvns.ca)
-- My personal portfolio running on Vercel built with React.js, TypeScript, Next.js, and styled with Tailwind CSS.
-- **Language:** TypeScript | **Stars:** 0
+#### [homebrew-claude-usage-tracker](https://github.com/ggfevans/homebrew-claude-usage-tracker)
+- No description available
+- **Language:** Ruby | **Stars:** 0
 
 <!-- PROJECTS_END -->
 
@@ -64,14 +62,14 @@
 ### 🛠️ Tech Stack
 
 #### Top Languages by Usage
-- **Python:** ███████████░░░░░░░░░ 58.6%
-- **TypeScript:** ██████░░░░░░░░░░░░░░ 32.9%
-- **Svelte:** ░░░░░░░░░░░░░░░░░░░░ 3.5%
-- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
+- **Python:** ██████████████░░░░░░ 74.1%
+- **TypeScript:** ███░░░░░░░░░░░░░░░░░ 19.9%
+- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 1.6%
 - **CSS:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
-- **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 0.9%
-- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 0.8%
+- **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 1.1%
+- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 0.9%
 - **Batchfile:** ░░░░░░░░░░░░░░░░░░░░ 0.4%
+- **PowerShell:** ░░░░░░░░░░░░░░░░░░░░ 0.2%
 <!-- SKILLS_END -->
 
 ## 🛠 Technical Focus
@@ -98,7 +96,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-12-08 08:12 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-12-15 08:13 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
