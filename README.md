@@ -7,7 +7,7 @@
 
 **Professional Focus:** Full-stack web development, infrastructure automation, and rural networking solutions
 
-- **Location:** 📍 Fraser Valley, BC, Canada
+- **Location:** 📍 Vancouver Island, BC, Canada
 - **Nationality:** 🇨🇦/🇬🇧
 - **Interests:** 🏃 🥋 🥊 💪🏽 🏕 🏍 💻 🛫
 - **Countries visited:** 🇬🇧 🇨🇦 🇺🇸 🇨🇺 🇲🇽
