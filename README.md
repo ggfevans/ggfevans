@@ -19,19 +19,18 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggfevans&show_icons=true&theme=dracula)
 
-- **Public Repos:** 26
+- **Public Repos:** 27
 - **Total Stars:** 11
-- **Followers:** 60
-- **Following:** 536
+- **Followers:** 63
+- **Following:** 540
 
 <!-- STATS_END -->
 
 <!-- ACTIVITY_START -->
 ### 🚀 Recent Activity
 
-- 🔀 Labeled PR in [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) on Dec 22
-- 🔀 Opened PR in [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) on Dec 22
-- 🌟 Created branch in [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) on Dec 22
+- ⭐ Starred [bluwy/release-for-reddit-action](https://github.com/bluwy/release-for-reddit-action) on Dec 29
+- 📝 Labeled issue in [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) on Dec 29
 <!-- ACTIVITY_END -->
 
 <!-- PROJECTS_START -->
@@ -45,17 +44,13 @@
 - "why is my cache full oh no" - never again. Prevent cache drive overflow by gracefully managing qBittorrent during Unraid mover operations.
 - **Language:** Shell | **Stars:** 4
 
-#### [ggfevans](https://github.com/ggfevans/ggfevans)
-- No description available
-- **Language:** Python | **Stars:** 2
-
 #### [qbit-torrent-extract](https://github.com/ggfevans/qbit-torrent-extract)
 - An automated solution for extracting nested archives (zip, rar, 7z, tar) from completed qBittorrent downloads.
 - **Language:** Python | **Stars:** 1
 
-#### [astro-resume-template](https://github.com/ggfevans/astro-resume-template)
+#### [ggfevans](https://github.com/ggfevans/ggfevans)
 - No description available
-- **Language:** Various | **Stars:** 0
+- **Language:** Python | **Stars:** 2
 
 <!-- PROJECTS_END -->
 
@@ -63,14 +58,14 @@
 ### 🛠️ Tech Stack
 
 #### Top Languages by Usage
-- **Python:** ██████████████░░░░░░ 74.1%
-- **TypeScript:** ███░░░░░░░░░░░░░░░░░ 19.9%
-- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 1.6%
-- **CSS:** ░░░░░░░░░░░░░░░░░░░░ 1.2%
-- **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 1.1%
-- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 0.9%
-- **Batchfile:** ░░░░░░░░░░░░░░░░░░░░ 0.4%
-- **PowerShell:** ░░░░░░░░░░░░░░░░░░░░ 0.2%
+- **TypeScript:** ██████████░░░░░░░░░░ 50.5%
+- **Python:** ██████░░░░░░░░░░░░░░ 34.4%
+- **Shell:** ░░░░░░░░░░░░░░░░░░░░ 4.0%
+- **CSS:** ░░░░░░░░░░░░░░░░░░░░ 3.1%
+- **SCSS:** ░░░░░░░░░░░░░░░░░░░░ 2.9%
+- **JavaScript:** ░░░░░░░░░░░░░░░░░░░░ 2.3%
+- **Batchfile:** ░░░░░░░░░░░░░░░░░░░░ 1.1%
+- **PowerShell:** ░░░░░░░░░░░░░░░░░░░░ 0.5%
 <!-- SKILLS_END -->
 
 ## 🛠 Technical Focus
@@ -97,7 +92,7 @@
 
 ---
 
-<!-- LAST_UPDATED -->Last updated: 2025-12-22 08:12 UTC<!-- LAST_UPDATED_END -->
+<!-- LAST_UPDATED -->Last updated: 2025-12-29 08:12 UTC<!-- LAST_UPDATED_END -->
 
 *Self-updating profile inspired by [Simon Willison's blog post](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) • [GitHub: @simonw](https://github.com/simonw)*
 
